@@ -27,3 +27,5 @@ int main(){
         cout << word << " is a palindrome" << endl; 
     }
 }
+
+//outputs the reversed word
